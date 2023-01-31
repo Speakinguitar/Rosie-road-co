@@ -32,6 +32,7 @@ public class RosiesRoadCo {
       costCalculator(truckloads, stoplights, waterPipes, powerPipes, crew, days);
       
    }
+}
 ```
 Module to figure out the number of stoplights
 ```
@@ -123,5 +124,4 @@ The final module that takes toal material, and with cost per material given calc
       System.out.printf("Total cost of project : $%.2f\n", totalCost);
       
    }   
-}
 ```
